@@ -13,7 +13,12 @@ The application is based on the **MVC pattern** i.e. Model View Controller.
 
 The application is _almost_ **production ready**.
 
----
+##admin login for need to register by admin@gmail.com to see and manage the user 
+## this test project made into the ejs engine and node express 
+## and i could not implement the api just becouse of sendgrid is not registering my self
+## user can login and register
+## admin can manage the roll and permison of the user 
+
 
 ## To start setting up the 
 
@@ -37,9 +42,8 @@ MONGODB_URI=YOUR_MONGODB_URI(example: mongodb://localhost:27017)
 DB_NAME=YOUR_DB_NAME
 ```
 
-Step 4: Install MongoDB (Linux Ubuntu)
 
-See <https://docs.mongodb.com/manual/installation/> for more infos
+
 
 Step 5: Run Mongo daemon
 
@@ -53,12 +57,6 @@ Step 6: Start the app by
 npm start
 ```
 
-## Author
 
-- [**Truly Mittal**](https://trulymittal.com)
-
-## Contribute
-
-You can fork this repo and send me a PR.
 
 
